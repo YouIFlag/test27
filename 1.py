@@ -1,2 +1,1 @@
-iiiiiiiiiiiii
-ireate database school charset=utf8
+print('我是张三')
