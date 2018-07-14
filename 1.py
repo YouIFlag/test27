@@ -1,2 +1,3 @@
-iiiiiiiiiiiii
-ireate database school charset=utf8
+num = 200
+count = 10
+numlist = [1,2,3,4,5]
